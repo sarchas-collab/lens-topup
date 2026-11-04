@@ -1,6 +1,6 @@
 // Service Worker — ทำให้แอปเปิดเร็วและเปิดได้แม้ไม่มีเน็ต
 // เมื่อแก้ไข index.html แล้ว ให้เปลี่ยนเลขเวอร์ชันด้านล่าง (v1 → v2) เพื่อให้มือถืออัปเดต
-const CACHE = 'lens-topup-v1';
+const CACHE = 'lens-topup-v2';
 
 const APP_SHELL = [
   './',
